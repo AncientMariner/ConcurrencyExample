@@ -1,4 +1,4 @@
-package org.xander;
+package org.xander.collections;
 
 import java.util.Iterator;
 import java.util.concurrent.CopyOnWriteArrayList;
